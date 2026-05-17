@@ -4,7 +4,7 @@
 
 Currently an aspiring data scientist at CDC (with a heavy ML engineering part), I previously worked as a self-employed freelance data engineer and developer (since 2021), and previously worked for 3+ years as a Java EE & JavaScript contractor web developer (2016 – 2019).
 
-I hold a master's degree in data science and machine learning at Lille University (Master SIAD, 2019 – 2021) and a master's degree in foreign languages (2007 – 2012).
+Currently making my way towards the end of a 2-year ML Engineer curriculum bundled with an apprenticeship as a data scientist at the DFP direction of the Caisse des dépôts et consignations (CDC), I also hold a master's degree in data science and machine learning at Lille University (Master SIAD, 2019 – 2021) and a master's degree in foreign languages (2007 – 2012).
 
 What I love:
 - clean code & software craftsmanship
@@ -15,7 +15,7 @@ What I love:
 
 ### Data Scientist & ML Engineer
 
-Groupe Caisse des Dépôts · Apprenticeship
+Groupe Caisse des Dépôts — Direction de la formation professionnelle · Apprenticeship
 
 Sep 2024 - Sep 2026 · 2 yr
 
