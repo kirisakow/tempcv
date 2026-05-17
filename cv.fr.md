@@ -4,6 +4,8 @@
 
 Data Scientist en apprentissage au sein de la **Caisse des Dépôts**, spécialisé en **traitement automatique du langage (NLP)** et en **text mining**. Expérience confirmée dans la conception de pipelines de traitement de données textuelles, l'**extraction automatique d'informations** (NER) et la **classification de documents**, avec une forte appétence pour l'**industrialisation** des solutions data science. Maîtrise de Python, PySpark, PyTorch et des bonnes pratiques DevOps (Docker, Git, CI/CD).
 
+Disponible pour un CDI à partir de septembre 2026 — — Télétravail partiel acceptable
+
 ---
 
 ## Compétences Techniques
@@ -33,7 +35,7 @@ Data Scientist en apprentissage au sein de la **Caisse des Dépôts**, spéciali
 ## Expérience Professionnelle
 
 ### Data Scientist & ML Engineer *(Apprentissage)*
-**Caisse des Dépôts — Banque des Territoires** | Paris | *Sep 2024 – Sep 2026*
+**Caisse des Dépôts — Direction de la formation professionnelle** | Paris | *Sep 2024 – Sep 2026*
 
 Missions au sein de la Direction des Prêts, alignées sur les besoins de l'équipe **DPHD80 Data Etudes et Pilotage** :
 
@@ -60,7 +62,7 @@ Missions au sein de la Direction des Prêts, alignées sur les besoins de l'équ
 ---
 
 ### Data Engineer & Développeur Data *(Stage)*
-**EDF — Équipe SoDATA** | Paris/Lille | *Mar 2020 – Aug 2020*
+**EDF — Équipe SoDATA** | Paris | *Mar 2020 – Aug 2020*
 
 - Développement de **visualisations interactives** pour le portail OpenData.EDF.fr
 - Conception de **solutions de traitement et qualité des données** pour les besoins métiers
@@ -80,11 +82,10 @@ Université de Lille | *2019 – 2021*
 
 ---
 
-## Langues
+## Langues étrangères
 
-- **Français** : Courant (niveau professionnel)
-- **Anglais** : Courant (niveau professionnel)
-- **Espagnol** : Intermédiaire
+- **Anglais** : Courant (bilingue)
+- **Polonais** : Intermédiaire
 - **Russe** : Langue maternelle
 
 ---
@@ -97,7 +98,3 @@ Université de Lille | *2019 – 2021*
 - **Collaboration** : Travail efficace avec les équipes métiers, IT et data
 - **Innovation** : Proposition proactive de solutions créatives pour répondre aux enjeux business
 - **Curiosité** : Veille technologique constante et apprentissage continu
-
----
-
-*Disponible pour un CDI à partir de septembre 2026 — Poste basé à Paris (75013) — Télétravail partiel acceptable*
