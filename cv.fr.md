@@ -2,7 +2,7 @@
 
 ## Profil
 
-Data Scientist en apprentissage au sein de la **Caisse des Dépôts**, spécialisé en **traitement automatique du langage (NLP)** et en **text mining**. Expérience confirmée dans la conception de chaînes de traitement pour l'**extraction automatique d'informations** (NER), la **classification de documents** et la constitution de bases de données structurées à partir de corpus textuels, avec une forte appétence pour l'**industrialisation** des solutions data science et une **veille active sur les LLM et l'IA générative**. Maîtrise de Python, PySpark, PyTorch et des bonnes pratiques DevOps (Docker, Git, CI/CD).
+Data Scientist en apprentissage au sein de la **Caisse des Dépôts**, spécialisé en **traitement automatique du langage (NLP)** et en **text mining**. Expérience confirmée dans la conception de chaînes de traitement pour l'**extraction automatique d'informations** (NER), la **classification de documents** et la constitution de bases de données structurées à partir de corpus textuels, avec une forte appétence pour l'**industrialisation** des solutions data science et une **veille active sur les LLM et l'IA générative**. Maîtrise de Python, PySpark, PyTorch, Keras et des techniques DevOps (Docker, Git, CI/CD) acquises à travers les expériences de développeur Java EE, antérieures à la reconversation à la data.
 
 Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acceptable
 
@@ -11,22 +11,26 @@ Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acc
 ## Compétences Techniques
 
 ### Data Science & NLP
+
 - **Traitement automatique du langage** : NER, extraction d'entités, classification de documents (pièces justificatives), analyse de corpus textuels
 - **Machine Learning & Deep Learning** : Réseaux de neurones (PyTorch, Keras), modèles supervisés/non supervisés (scikit-learn)
 - **Text Mining** : Extraction d'informations structurées, normalisation de données textuelles
 
 ### Développement & Industrialisation
+
 - **Langages** : Python (avancé), SQL, PySpark
 - **Bibliothèques Data Science** : Pandas, NumPy, scikit-learn, Keras, PyTorch, MLflow
 - **Outils DevOps** : Docker, Git/Bitbucket, Jenkins, GitLab CI/CD, Ansible
 - **Bonnes pratiques** : Clean code, software craftsmanship, tests unitaires, documentation technique, versionnage, **développement de packages**
 
 ### Data Engineering
+
 - **Bases de données** : SQL (Hive, PostgreSQL), NoSQL (MongoDB, Elasticsearch), fichiers Parquet, **open data**
 - **Big Data** : Hadoop, Spark, architectures distribuées
 - **ETL & Web Scraping** : Collecte, nettoyage et enrichissement de données
 
 ### Veille & Innovation
+
 - Surveillance active des avancées en **NLP** et **IA générative** (LLM, **développement de ChatBot**)
 - Capacité à évaluer et intégrer de nouvelles technologies pour répondre à l'évolution des besoins métiers
 
