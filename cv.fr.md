@@ -4,7 +4,7 @@
 
 Data Scientist en apprentissage au sein de la **Caisse des Dépôts**, spécialisé en **traitement automatique du langage (NLP)** et en **text mining**. Expérience confirmée dans la conception de pipelines de traitement de données textuelles, l'**extraction automatique d'informations** (NER) et la **classification de documents**, avec une forte appétence pour l'**industrialisation** des solutions data science. Maîtrise de Python, PySpark, PyTorch et des bonnes pratiques DevOps (Docker, Git, CI/CD).
 
-Disponible pour un CDI à partir de septembre 2026 — — Télétravail partiel acceptable
+Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acceptable
 
 ---
 
@@ -37,12 +37,12 @@ Disponible pour un CDI à partir de septembre 2026 — — Télétravail partiel
 ### Data Scientist & ML Engineer *(Apprentissage)*
 **Caisse des Dépôts — Direction de la formation professionnelle** | Paris | *Sep 2024 – Sep 2026*
 
-Missions au sein de la Direction des Prêts, alignées sur les besoins de l'équipe **DPHD80 Data Etudes et Pilotage** :
-
-- **Conception et implémentation de pipelines de preprocessing** pour données non structurées (textes, catalogues de formation, référentiels métiers) afin de modéliser leur extraction et leur traitement algorithmique au sein de la plateforme data
-- **Named Entity Recognition (NER)** sur de grands corpus documentaires liés aux dossiers de prêt
+- **Conception et implémentation de pipelines de preprocessing** pour données non structurées (textes, catalogues de formation, référentiels de compétences et métiers) afin de modéliser leur extraction et leur traitement algorithmique au sein de la plateforme data
+- **Traitement automatique du langage (NLP)** : **Named Entity Recognition (NER)** sur de grands corpus documentaires (pièces justificatives, dossiers de prêt)
+- **Extraction automatique d'informations** et **classification de documents** pour constituer des bases de données structurées
 - **Optimisation des processus** pour l'efficacité computationnelle et les métriques de performance statistique
-- **Sélection des techniques** et construction de solutions adaptées pour le traitement de données textuelles
+- **Amélioration de la qualité des données** par normalisation et validation
+- **Sélection des techniques** de machine learning (réseaux de neurones inclus) et construction de solutions adaptées pour répondre aux besoins métiers
 - **Définition d'approches stratégiques** pour identifier les modèles optimaux et résoudre des problèmes métiers complexes
 - **Présentation pédagogique** des solutions proposées et **rédaction de documentation technique** ainsi que de procédures opérationnelles
 
