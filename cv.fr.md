@@ -1,8 +1,8 @@
-# KIRIL ISAKOV — Data Scientist | NLP & Machine Learning
+# KIRIL ISAKOV — Data Scientist | NLP, Text Mining & Machine Learning
 
 ## Profil
 
-Data Scientist en apprentissage au sein de la **Caisse des Dépôts**, spécialisé en **traitement automatique du langage (NLP)** et en **text mining**. Expérience confirmée dans la conception de pipelines de traitement de données textuelles, l'**extraction automatique d'informations** (NER) et la **classification de documents**, avec une forte appétence pour l'**industrialisation** des solutions data science. Maîtrise de Python, PySpark, PyTorch et des bonnes pratiques DevOps (Docker, Git, CI/CD).
+Data Scientist en apprentissage au sein de la **Caisse des Dépôts**, spécialisé en **traitement automatique du langage (NLP)** et en **text mining**. Expérience confirmée dans la conception de chaînes de traitement pour l'**extraction automatique d'informations** (NER), la **classification de documents** et la constitution de bases de données structurées à partir de corpus textuels, avec une forte appétence pour l'**industrialisation** des solutions data science et une **veille active sur les LLM et l'IA générative**. Maîtrise de Python, PySpark, PyTorch et des bonnes pratiques DevOps (Docker, Git, CI/CD).
 
 Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acceptable
 
@@ -11,43 +11,46 @@ Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acc
 ## Compétences Techniques
 
 ### Data Science & NLP
-- **Traitement automatique du langage** : NER, extraction d'entités, classification de documents, analyse de corpus textuels
+- **Traitement automatique du langage** : NER, extraction d'entités, classification de documents (pièces justificatives), analyse de corpus textuels
 - **Machine Learning & Deep Learning** : Réseaux de neurones (PyTorch, Keras), modèles supervisés/non supervisés (scikit-learn)
 - **Text Mining** : Extraction d'informations structurées, normalisation de données textuelles
 
 ### Développement & Industrialisation
 - **Langages** : Python (avancé), SQL, PySpark
-- **Bibliothèques Data Science** : Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, MLflow
+- **Bibliothèques Data Science** : Pandas, NumPy, scikit-learn, Keras, PyTorch, MLflow
 - **Outils DevOps** : Docker, Git/Bitbucket, Jenkins, GitLab CI/CD, Ansible
-- **Bonnes pratiques** : Clean code, typage, tests unitaires, documentation technique, versionnage
+- **Bonnes pratiques** : Clean code, software craftsmanship, tests unitaires, documentation technique, versionnage, **développement de packages**
 
 ### Data Engineering
-- **Bases de données** : SQL (Hive, PostgreSQL), NoSQL (MongoDB, Elasticsearch), fichiers Parquet
+- **Bases de données** : SQL (Hive, PostgreSQL), NoSQL (MongoDB, Elasticsearch), fichiers Parquet, **open data**
 - **Big Data** : Hadoop, Spark, architectures distribuées
 - **ETL & Web Scraping** : Collecte, nettoyage et enrichissement de données
 
 ### Veille & Innovation
-- Surveillance active des avancées en **NLP** et **IA générative** (LLM, ChatBot)
-- Capacité à évaluer et intégrer de nouvelles technologies pour répondre aux besoins métiers
+- Surveillance active des avancées en **NLP** et **IA générative** (LLM, **développement de ChatBot**)
+- Capacité à évaluer et intégrer de nouvelles technologies pour répondre à l'évolution des besoins métiers
 
 ---
 
 ## Expérience Professionnelle
 
-### Data Scientist & ML Engineer *(Apprentissage)*
+### Data Scientist & ML Engineer *(Apprentissage — Direction de la formation professionnelle)*
 
-**Caisse des Dépôts — Direction de la formation professionnelle** | Paris | *Sep 2024 – Sep 2026*
+**Caisse des Dépôts** | Paris | *Sep 2024 – Sep 2026*
 
-- **Conception et implémentation de pipelines de preprocessing** pour données non structurées (textes, catalogues de formation, référentiels de compétences et métiers) afin de modéliser leur extraction et leur traitement algorithmique au sein de la plateforme data
-- **Traitement automatique du langage (NLP)** : **Named Entity Recognition (NER)** sur de grands corpus documentaires (pièces justificatives)
-- **Extraction automatique d'informations** et **classification de documents** pour constituer des bases de données structurées
-- **Optimisation des processus** pour l'efficacité computationnelle et les métriques de performance statistique
-- **Amélioration de la qualité des données** par normalisation et validation
-- **Sélection des techniques** de machine learning (réseaux de neurones inclus) et construction de solutions adaptées pour répondre aux besoins métiers
-- **Définition d'approches stratégiques** pour identifier les modèles optimaux et résoudre des problèmes métiers complexes
-- **Présentation pédagogique** des solutions proposées et **rédaction de documentation technique** ainsi que de procédures opérationnelles
+- Mise en œuvre d’algorithmes de **text mining** et de **traitement automatique du langage (NLP)** sur des corpus documentaires (pièces justificatives, catalogues de formation, référentiels de compétences et métiers)
+- Développement de chaînes de traitement pour :
+  - L’**extraction automatique d’informations** (NER, extraction de champs structurés),
+  - La **classification de documents** (typologie des pièces justificatives),
+  - L’**amélioration de la qualité des données** (normalisation, validation)
+- **Constitution automatique de bases de données structurées** à partir des documents textuels et fiabilisation de leur contenu
+- **Optimisation des processus** pour l’efficacité computationnelle et les métriques de performance statistique
+- **Sélection des techniques** de machine learning et deep learning (réseaux de neurones via PyTorch, Keras) pour construire des solutions adaptées aux besoins métiers
+- **Définition d’approches stratégiques** pour identifier les modèles optimaux et résoudre des problèmes complexes (prédiction de la probabilité de fraude)
+- **Conception et développement de services** basés sur ces technologies, à destination des équipes métiers
+- **Industrialisation** : gestion et structuration du code, développement de packages internes, **rédaction de documentation technique** et de guides utilisateurs
 
-*Environnement technique* : Python, PySpark, SQL, MLflow, Keras, PyTorch, NLP, Elasticsearch, Microsoft Azure, Dataiku DSS, Hive
+*Environnement technique* : Python, PySpark, SQL, Pandas, scikit-learn, MLflow, Keras, PyTorch, NLP, Elasticsearch, Microsoft Azure, Dataiku DSS, Hive
 
 ---
 
@@ -63,6 +66,17 @@ Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acc
 
 ---
 
+### Data Engineer & Développeur *(Freelance)*
+
+**Freelancer.com** | Télétravail | *Sep 2022 – Sep 2024*
+
+- Réalisation de missions en ingénierie des données et développement pour divers clients
+- Conception de solutions d'automatisation et de traitement de données adaptées aux besoins métiers
+
+*Environnement technique* : Python, SQL, Dataiku DSS
+
+---
+
 ### Data Engineer & Développeur Data *(Stage)*
 
 **EDF — Équipe SoDATA** | Paris | *Mar 2020 – Aug 2020*
@@ -71,7 +85,7 @@ Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acc
 - Conception de **solutions de traitement et qualité des données** pour les besoins métiers
 - Contribution à l'amélioration des processus ETL
 
-*Environnement technique* : Python, R, Dataiku DSS, PowerShell, BASH, JavaScript, Vega-Lite, D3.js, AngularJS
+*Environnement technique* : Python, R, OpenDataSoft, Dataiku DSS, PowerShell, BASH, JavaScript, Vega-Lite, D3.js, AngularJS
 
 ---
 
