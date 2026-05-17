@@ -35,10 +35,11 @@ Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acc
 ## Expérience Professionnelle
 
 ### Data Scientist & ML Engineer *(Apprentissage)*
+
 **Caisse des Dépôts — Direction de la formation professionnelle** | Paris | *Sep 2024 – Sep 2026*
 
 - **Conception et implémentation de pipelines de preprocessing** pour données non structurées (textes, catalogues de formation, référentiels de compétences et métiers) afin de modéliser leur extraction et leur traitement algorithmique au sein de la plateforme data
-- **Traitement automatique du langage (NLP)** : **Named Entity Recognition (NER)** sur de grands corpus documentaires (pièces justificatives, dossiers de prêt)
+- **Traitement automatique du langage (NLP)** : **Named Entity Recognition (NER)** sur de grands corpus documentaires (pièces justificatives)
 - **Extraction automatique d'informations** et **classification de documents** pour constituer des bases de données structurées
 - **Optimisation des processus** pour l'efficacité computationnelle et les métriques de performance statistique
 - **Amélioration de la qualité des données** par normalisation et validation
@@ -51,6 +52,7 @@ Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acc
 ---
 
 ### Data Engineer *(Stage)*
+
 **BNP Paribas** | Paris | *Mar 2021 – Aug 2021*
 
 - **Refactoring complet** d'une application Python 2 → Python 3 avec intégration **CI/CD**
@@ -62,6 +64,7 @@ Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acc
 ---
 
 ### Data Engineer & Développeur Data *(Stage)*
+
 **EDF — Équipe SoDATA** | Paris | *Mar 2020 – Aug 2020*
 
 - Développement de **visualisations interactives** pour le portail OpenData.EDF.fr
@@ -78,15 +81,15 @@ Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acc
 Université de Lille | *2019 – 2021*
 
 **Master en Langues Étrangères Appliquées**
-*2007 – 2012*
+Aix-Marseille Université, INALCO | *2007 – 2012*
 
 ---
 
 ## Langues étrangères
 
 - **Anglais** : Courant (bilingue)
-- **Polonais** : Intermédiaire
-- **Russe** : Langue maternelle
+- **Biélorusse, Russe** : Langues maternelles
+- **Polonais** : Courant
 
 ---
 
