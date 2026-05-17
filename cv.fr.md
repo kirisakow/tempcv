@@ -1,13 +1,5 @@
 # KIRIL ISAKOV — Data Scientist | NLP, Text Mining & Machine Learning
 
-## Profil
-
-Data Scientist en apprentissage au sein de la **Caisse des Dépôts**, spécialisé en **traitement automatique du langage (NLP)** et en **text mining**. Expérience confirmée dans la conception de chaînes de traitement pour l'**extraction automatique d'informations** (NER), la **classification de documents** et la constitution de bases de données structurées à partir de corpus textuels, avec une forte appétence pour l'**industrialisation** des solutions data science et une **veille active sur les LLM et l'IA générative**. Maîtrise de Python, PySpark, PyTorch, Keras et des techniques DevOps (Docker, Git, CI/CD) acquises à travers les expériences de développeur Java EE, antérieures à la reconversation à la data.
-
-Disponible pour un CDI à partir de septembre 2026 — Télétravail partiel acceptable
-
----
-
 ## Compétences Techniques
 
 ### Data Science & NLP
