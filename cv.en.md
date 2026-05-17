@@ -1,4 +1,4 @@
-# Kiril Isakov — Apprenti ML Engineer à la Caisse des dépôts
+# Kiril Isakov — Junior ML Engineer & Data Scientist at Caisse des dépôts
 
 ## About me
 
