@@ -73,15 +73,25 @@
 
 ---
 
-### Data Engineer & Développeur Data *(Stage)*
+### Data Engineer & Développeur Data *(Stage — Équipe SoDATA)*
 
-**EDF — Équipe SoDATA** | Paris | *Mar 2020 – Aug 2020*
+**EDF** | Paris | *Mar 2020 – Aug 2020*
 
 - Développement de **visualisations interactives** pour le portail OpenData.EDF.fr
 - Conception de **solutions de traitement et qualité des données** pour les besoins métiers
 - Contribution à l'amélioration des processus ETL
 
 *Environnement technique* : Python, R, OpenDataSoft, Dataiku DSS, PowerShell, BASH, JavaScript, Vega-Lite, D3.js, AngularJS
+
+---
+
+### Ingénieur études et développement Java EE
+
+ESN (GFI, Infotel) | Lille | *Jan 2016 – Mar 2019*
+
+Études, développement, tierce maintenance applicative (TMA)
+
+*Environnement technique* : Eclipse, Maven, Spring, Git
 
 ---
 
