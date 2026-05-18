@@ -62,17 +62,6 @@
 
 ---
 
-### Data Engineer & Développeur *(Freelance)*
-
-**Freelancer.com** | Télétravail | *Sep 2022 – Sep 2024*
-
-- Réalisation de missions en ingénierie des données et développement pour divers clients
-- Conception de solutions d'automatisation et de traitement de données adaptées aux besoins métiers
-
-*Environnement technique* : Python, SQL, Dataiku DSS
-
----
-
 ### Data Engineer & Développeur Data *(Stage — Équipe SoDATA)*
 
 **EDF** | Paris | *Mar 2020 – Aug 2020*
